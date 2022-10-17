@@ -1,0 +1,26 @@
+.img-id {
+    top: 0;
+    left: 0;
+    background: rgba(88, 85, 93, .45);
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 2px;
+}
+
+.img-created-at {
+    bottom: 0;
+    left: 0;
+    background: rgba(88, 85, 93, .45);
+    color: #fff;
+    font-size: 10px;
+    font-weight: 700;
+    padding: 2px;
+}
+
+.text-truncate-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
